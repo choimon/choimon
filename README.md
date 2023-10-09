@@ -37,9 +37,12 @@ I previously worked as a backend developer, working in map image rendering.
 
 <h3>💜 My Git</h3>
 
-![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimon&show_icons=false&hide_border=true&border_radius=2&bg_color=30,eea4b3,d499ea,9679ff&title_color=f8e8fc&icon_color=f8e8fc&text_color=fcf2f4)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choimon&layout=compact)](https://github.com/choimon/github-readme-stats)
+![Choi's GitHub stats](https://github-readme-stats-nu-green.vercel.app/api?username=choimon&show_icons=false&hide_border=true&border_radius=2&bg_color=30,eea4b3,d499ea,9679ff&title_color=f8e8fc&icon_color=f8e8fc&text_color=fcf2f4)
+[![Top Langs](https://github-readme-stats-nu-green.vercel.app/api/top-langs/?username=choimon&layout=compact)](https://github.com/choimon/github-readme-stats)
 <br/>
+
+
+
 
 
 <br/><h3>💜 Where to find me</h3>
