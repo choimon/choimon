@@ -1,10 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=Hello,%20I'm%20Minjeong&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:d499ea,100:9679ff&fontColor=ffffff&height=180&section=header&text=Hello,%20I'm%20Minjeong&fontSize=50" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:ffea29,100:fcca26&fontColor=38320b&height=180&section=header&text=Hello,%20I'm%20Minjeong&fontSize=50" />
+[![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimon&show_icons=true&theme=calm_pink)](https://github.com/choimon/github-readme-stats)
+![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimon&show_icons=true&theme=material-palenight)
+ -->
+
+
 <p>Welcome to my page! I'm currently working as a frontend developer in Seoul, Korea. </br> 
 I previously worked as a backend developer, working in map image rendering.
 </p>
 
-
-<h3>Things I work with these days</h3>
+<h3 style="color:#7b53c1;">Things I work with these days</h3>
 <p>  
   <img alt="Vue3" src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,6 +35,12 @@ I previously worked as a backend developer, working in map image rendering.
 
 </p>
 
+
+<h3>My Git</h3>
+
+![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimon&show_icons=false&hide_border=true&border_radius=2&bg_color=30,eea4b3,d499ea,9679ff&title_color=f8e8fc&icon_color=f8e8fc&text_color=fcf2f4)
+
+
 <h3>Where to find me</h3>
 
 <p>
@@ -38,7 +49,6 @@ I previously worked as a backend developer, working in map image rendering.
 <a href="https://choimon.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/My_Blog-%85be62.svg?&style=flat-square&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/10808879/minjeong-choi" target="_blank">  <img alt="StackOverflow" src="https://img.shields.io/badge/-Stack_Overflow-F58025.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
 </a>
-
-
   
 </p>
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=0:d499ea,100:9679ff&fontColor=ffffff&height=100&section=footer&fontSize=50" />
