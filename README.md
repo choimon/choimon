@@ -1,8 +1,5 @@
-
-
-
-<h1>Hello I'm Choi</h1>
-<p>Welcome to my page! </br> I'm Minjeong. I'm currently working as a frontend developer in Seoul, Korea. 
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=180&section=header&text=Hello,%20I'm%20Minjeong&fontSize=50" />
+<p>Welcome to my page! I'm currently working as a frontend developer in Seoul, Korea. </br> 
 I previously worked as a backend developer, working in map image rendering.
 </p>
 
