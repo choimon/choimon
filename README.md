@@ -9,7 +9,7 @@
 I previously worked as a backend developer, working in map image rendering.
 </p>
 
-<h3 style="color:#7b53c1;">💜 Things I work with these days</h3>
+<h3 style="color:#7b53c1;">💜 Things I work with</h3>
 <p>  
   <img alt="Vue3" src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -38,7 +38,7 @@ I previously worked as a backend developer, working in map image rendering.
 <h3>💜 My Git</h3>
 
 ![Choi's GitHub stats](https://github-readme-stats-nu-green.vercel.app/api?username=choimon&show_icons=false&hide_border=true&border_radius=2&bg_color=30,eea4b3,d499ea,9679ff&title_color=f8e8fc&icon_color=f8e8fc&text_color=fcf2f4)
-[![Top Langs](https://github-readme-stats-nu-green.vercel.app/api/top-langs/?username=choimon&layout=compact)](https://github.com/choimon/github-readme-stats)
+[![Top Langs](https://github-readme-stats-nu-green.vercel.app/api/top-langs/?username=choimon&layout=compact&hide=C,Go)](https://github.com/choimon/github-readme-stats)
 <br/>
 
 
