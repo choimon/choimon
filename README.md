@@ -9,7 +9,7 @@
 I previously worked as a backend developer, working in map image rendering.
 </p>
 
-<h3 style="color:#7b53c1;">Things I work with these days</h3>
+<h3 style="color:#7b53c1;">💜 Things I work with these days</h3>
 <p>  
   <img alt="Vue3" src="https://img.shields.io/badge/Vue3-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -26,7 +26,7 @@ I previously worked as a backend developer, working in map image rendering.
 
 </p>
 
-<h3>Things I've used in the past</h3>
+<h3>💜 Things I've used in the past</h3>
 <p>
     <img alt="C#" src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -36,12 +36,14 @@ I previously worked as a backend developer, working in map image rendering.
 </p>
 
 
-<h3>My Git</h3>
+<h3>💜 My Git</h3>
 
 ![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimon&show_icons=false&hide_border=true&border_radius=2&bg_color=30,eea4b3,d499ea,9679ff&title_color=f8e8fc&icon_color=f8e8fc&text_color=fcf2f4)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choimon&layout=compact)](https://github.com/choimon/github-readme-stats)
 
 
-<h3>Where to find me</h3>
+
+<h3>💜 Where to find me</h3>
 
 <p>
 <a href="mailto:sanjosebadger@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sanjosebadger@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
