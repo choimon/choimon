@@ -24,7 +24,8 @@ I previously worked as a backend developer, working in map image rendering.
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
 
-</p>
+</p><br/>
+
 
 <h3>💜 Things I've used in the past</h3>
 <p>
@@ -32,18 +33,16 @@ I previously worked as a backend developer, working in map image rendering.
     <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
     <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img alt="PostGIS" src="https://img.shields.io/badge/-PostGIS-5b7b9f?style=for-the-badge&logo=postgresql&logoColor=white" />
-
-</p>
-
+</p><br/>
 
 <h3>💜 My Git</h3>
 
 ![Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=choimon&show_icons=false&hide_border=true&border_radius=2&bg_color=30,eea4b3,d499ea,9679ff&title_color=f8e8fc&icon_color=f8e8fc&text_color=fcf2f4)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choimon&layout=compact)](https://github.com/choimon/github-readme-stats)
+<br/>
 
 
-
-<h3>💜 Where to find me</h3>
+<br/><h3>💜 Where to find me</h3>
 
 <p>
 <a href="mailto:sanjosebadger@gmail.com" target="_blank"><img src="https://img.shields.io/badge/sanjosebadger@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
@@ -51,6 +50,7 @@ I previously worked as a backend developer, working in map image rendering.
 <a href="https://choimon.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/My_Blog-%85be62.svg?&style=flat-square&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/10808879/minjeong-choi" target="_blank">  <img alt="StackOverflow" src="https://img.shields.io/badge/-Stack_Overflow-F58025.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
 </a>
-  
-</p>
+
+
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:d499ea,100:9679ff&fontColor=ffffff&height=100&section=footer&fontSize=50" />
+</p>
