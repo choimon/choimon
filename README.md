@@ -18,6 +18,7 @@ I previously worked as a backend developer, working in map image rendering.
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 
+  <img alt="WebpackModuleFederation" src="https://img.shields.io/badge/-Module_Federation-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="yarn3" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 
