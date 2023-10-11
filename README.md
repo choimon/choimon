@@ -52,8 +52,8 @@ I previously worked as a backend developer, working in map image rendering.
 <a href="https://github.com/choimon" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
 <a href="https://choimon.github.io/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/My_Blog-%85be62.svg?&style=flat-square&logoColor=white" /></a>
 <a href="https://stackoverflow.com/users/10808879/minjeong-choi" target="_blank">  <img alt="StackOverflow" src="https://img.shields.io/badge/-Stack_Overflow-F58025.svg?&style=flat-square&logo=stackoverflow&logoColor=white" />
+ <a href="https://medium.com/@minj9325/about" target="_blank">  <img alt="Medium" src="https://img.shields.io/badge/-Medium-000000.svg?&style=flat-square&logo=medium&logoColor=white" />
 </a>
-
 
 <img src="https://capsule-render.vercel.app/api?type=Waving&color=0:d499ea,100:9679ff&fontColor=ffffff&height=100&section=footer&fontSize=50" />
 </p>
