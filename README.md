@@ -20,11 +20,17 @@ I previously worked as a backend developer, working in map image rendering.
 
   <img alt="WebpackModuleFederation" src="https://img.shields.io/badge/-Module_Federation-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
   <img alt="yarn3" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
 
+</p><br/>
+
+
+<h3 style="color:#7b53c1;">💜 Things I play with</h3>
+<p>  
+  <img alt="pnpm" src="https://img.shields.io/badge/-PNPM-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />
 </p><br/>
 
 
