@@ -5,7 +5,8 @@
  -->
 
 
-<p>Welcome to my page! I'm currently working as a frontend developer in Seoul, Korea. </br> 
+<p>Welcome to my page! I'm a frontend developer in Seoul, Korea. </br>
+My current company works on private cloud, and I'm currently building a monitoring solution covering cloud resources and also physical devices(mostly infra-related resources).</br>
 I previously worked as a backend developer, working in map image rendering.
 </p>
 
